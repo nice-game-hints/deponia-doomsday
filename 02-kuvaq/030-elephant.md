@@ -1,5 +1,6 @@
 ---
 title: How to stop the elephant?
+keywords: reverse, distraction, mcchromium
 ---
 
 That bloody pink elephant is messing your instructions.
@@ -8,7 +9,7 @@ That bloody pink elephant is messing your instructions.
 Have you talked about the issue with people?
 
 # Well, I have
-I think Tuck would be the best bet on this now.
+I think Tuck would be the best bet on this now. He has seen it anyways.
 
 # Tuck? He doesn't remember...
 Well, make him remember. McCrumbelnickel tells you how to make people remember.
