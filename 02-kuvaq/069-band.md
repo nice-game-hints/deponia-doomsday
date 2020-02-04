@@ -19,7 +19,7 @@ Urm, yes. Get [a potato](050-potato.md)
 Now, halve it. There is a potato-halving machine at the village center. Handy!
 
 # Halved potatoes
-Yes yes. Attach them to the bra underwire.
+Yes yes. Attach them to the bra underwire (you get it from Lotti after talking).
 
 # Ear protectors!
 Give them to Zoon.

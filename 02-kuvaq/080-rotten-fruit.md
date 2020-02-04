@@ -3,7 +3,7 @@ title: How to get to play the Rotten Fruit game?
 keywords: rat boy, rotten fruit, beard
 ---
 
-Have you [got Toni out of Lonzo's, yet?](020-toni-first.md)
+(You should have [got Toni out of Lonzo's, first.](020-toni-first.md))
 
 You need a pal to play against.
 
