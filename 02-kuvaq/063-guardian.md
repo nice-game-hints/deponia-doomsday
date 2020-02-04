@@ -30,3 +30,9 @@ How about now?
 
 # No, I need to do everything myself
 You could stuff the ammo into the barrel with something like... [a bottle brush](067-bottle-brush.md)?
+
+# I have the brush
+Great! Use it on the gun with the ammo and powder. It is now lock and loaded! Give it to Muck.
+
+# He took it!
+Finally. Now you and Mac can enter the tunnels.

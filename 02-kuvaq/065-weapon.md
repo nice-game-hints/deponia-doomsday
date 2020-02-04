@@ -5,7 +5,7 @@ keywords: muzzleloader, muck, hideout, gun
 
 You have to [get Toni out of Lonzo's first](020-toni-first.md).
 
-Zoon has a nice elephant gun there. But he only gives it to a big game hunter.
+Zoon has a nice elephant gun there. But he only gives it to a big game hunters.
 
 # I need a license
 Did you talk to Wenzel?

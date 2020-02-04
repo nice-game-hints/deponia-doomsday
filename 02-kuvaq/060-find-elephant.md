@@ -28,4 +28,4 @@ Okay...
  - Follow the tracks until you can click the lever on the cactus
 
 # Levered
-You found the hideout.
+You found the hideout. Now just to get that [Muck to guard the exit while you search](063-guardian.md).
