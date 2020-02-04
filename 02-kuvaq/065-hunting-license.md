@@ -3,7 +3,7 @@ title: How to get the hunting license?
 keywords: rotting fruit, game, wenzel, rat boy, rat
 ---
 
-Have you [got Toni out of Lazlo's, yet?](020-toni-first.md)
+Have you [got Toni out of Lonzo's, yet?](020-toni-first.md)
 
 Did you talk to Wenzel?
 
