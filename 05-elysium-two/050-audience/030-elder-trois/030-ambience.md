@@ -16,6 +16,7 @@ Inserting different cartridges into the jackalope generator build a cartridge th
  - funny hat (extremity)
  - funny (mood)
  - colorful (color)
+
 ![Requirements for the clown](trois_pet.png)
 
 # It is ready

@@ -21,6 +21,7 @@ Build a cartridge that has these features:
  - small (build)
  - fluffy (body hair)
  - sable striped (color)
+
 ![Requirements for the pet]([deux_pet.png)
 
 # It is ready

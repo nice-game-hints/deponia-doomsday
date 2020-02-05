@@ -24,7 +24,8 @@ Inserting different cartridges into the jackalope generator build a cartridge th
  - nasty (mood)
  - human (build)
  - no scale or fur (body hair)
- - huge paws (exremity)
+ - huge paws (extremity)
+
 ![Requirements for the masseur](un_pet.png)
 
 # It is ready
