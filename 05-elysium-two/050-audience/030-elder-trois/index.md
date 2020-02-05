@@ -3,7 +3,7 @@ title: Elder Trois
 keywords: trois, food, drink, athmosphere
 ---
 
-He is sitting at the cocktail bar. All the gastro-bots are gone nuts. He is worried because the guests were promised "food and drinks in a cozy athmosphere".
+He is sitting at the cocktail bar. All the gastro-bots are gone nuts. He is worried because the guests were promised "food and drink served in a cozy athmosphere".
 
 # So...
  - [Fix the drinks](010-drinks.md)
