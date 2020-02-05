@@ -16,7 +16,7 @@ Inserting different cartridges into the jackalope generator build a cartridge th
  - funny hat (extremity)
  - funny (mood)
  - colorful (color)
-[Requirements for the clown][trois_pet.png]
+![Requirements for the clown](trois_pet.png)
 
 # It is ready
 Good, note that it's body type and skin does not matter. If you now stick the cartridge into the the slot under the stage Trois will be satisfied with the athmosphere.

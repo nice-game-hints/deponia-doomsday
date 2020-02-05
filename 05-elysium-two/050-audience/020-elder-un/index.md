@@ -25,7 +25,7 @@ Inserting different cartridges into the jackalope generator build a cartridge th
  - human (build)
  - no scale or fur (body hair)
  - huge paws (exremity)
-[Requirements for the masseur][un_pet.png]
+![Requirements for the masseur](un_pet.png)
 
 # It is ready
 Good, note that it's body color does not matter. If you now stick the cartridge into the the cloning station slot Un will be enjoying his massage and he is ready for the meeting. Just convince the other two.

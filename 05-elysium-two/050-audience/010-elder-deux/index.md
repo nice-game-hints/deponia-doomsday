@@ -21,7 +21,7 @@ Build a cartridge that has these features:
  - small (build)
  - fluffy (body hair)
  - sable striped (color)
-[Requirements for the pet][deux_pet.png]
+![Requirements for the pet]([deux_pet.png)
 
 # It is ready
 Good, note that it's extremity does not matter. If you now stick the cartridge into the the slot Deux will pet it and he is ready for the meeting. Just convince the other two.
