@@ -7,7 +7,7 @@ Elder Un really enjoys his massage. Now that the robot has gone wild he needs mo
 
 [You should massage and wax him](010-rufus-massage.md)
 
-# I did
+# I have massaged and waxed him already
 But he wants more! Where _are_ the clone servants that replace the robots, by the way?
 
 # Clone servants?
