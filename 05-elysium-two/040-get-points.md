@@ -9,7 +9,7 @@ Well, did you participate in the fun activities?
 Oh, one point short. But the points are memorized in the computer to the next day.
 
 # But I don't have next day!
-Oh, right. Maybe you should [get access to the computer first](030-access-computer.md).
+Oh, right. Maybe you should [get access to the computer core first](030-access-computer.md).
 
 # I have access
 Right, now. How could the computer remember your already collected points after the time reset?
