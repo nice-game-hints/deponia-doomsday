@@ -11,9 +11,11 @@ TOOLS:
  - Gingerbread heart from the roller coaster (Did I have to look at it to change it to "I Love Lou" ???)
  - Paint set from the roller coaster
  - Fuse from Sausage bot (main square)
+ - Turban from prophet (offer hat magazine to him) appreciate baldness
 
 
 Need to find McChronicle and a boat to Porta Fisco.
+
 
 
 Quarry:
@@ -45,6 +47,11 @@ Here you could get a boat to sail to Porta Fisco.
 The ride needs a photo of lovers. Is this too easy?
 Three prerequisite tasks?
 
+Three components of love:
+ - Token of love ( star from the heavens)
+ - Romantic meal (the ginger bread cookie?)
+ - Symbol of your attachment
+
 Talk with Goal: Need to cheat the love machine? She says better take a picture with the other Goal? Should I device a fake Goal? Yup, talking to Goal reveals that's what we need to do.
 
 Hall of Mirrors:
@@ -58,3 +65,6 @@ There's a key in the bottom of the drain
 The roller coaster operator has died and the door is licked up. I mean locked up.
 
 Gumball machine needs change
+
+BOWLING BALL
+It can be decorated with chewing gum and water paints. It looks like goal!
