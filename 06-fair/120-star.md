@@ -14,5 +14,11 @@ But how to get it into the photo.
 # Yes, how?
 Did you... did you try to grab it?
 
-# Grab it?
+# That's not an option
+Isn't it, though?
+
+# It isn't
+Try it, click it couple of times.
+
+# It is an option!
 Just click the star multiple times to get it. Silly, yes. For love? Yes.

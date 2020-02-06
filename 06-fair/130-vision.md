@@ -45,6 +45,6 @@ Go on? It is being polished at the moment.
 # Hats off!
 Good! Show him the blue covered Hats magazine again. He will remove the polisher from his ball... err.. head.
 
-# On to visioning!
+# On to the visioning!
 He does not want to have a vision for you unless you have some [photo of your girlfriend with you](025-mock-goal.md).
 After you have at least one photo with you and you talk to him he gets into visions. You can show the photo to him again to make him vision.

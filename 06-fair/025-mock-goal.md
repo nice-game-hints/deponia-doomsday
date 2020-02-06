@@ -9,7 +9,7 @@ Goal is not fancying you at the moment. Maybe you could fake that she is with yo
 Well, you have done worse. What would make a perfect fake human?
 
 # The bowling ball?
-Of course, good idea! It looks a little bit of face, doesn't it? You can find one from the fair entrance.
+Of course, good idea! It looks a little bit of face, doesn't it? You can find one from the fair entrance. Try stick it into the small hole.
 
 # It is a little dull
 It is. You should add eyes and a mouth to it. I wonder, what three items would fit perfectly on those holes...

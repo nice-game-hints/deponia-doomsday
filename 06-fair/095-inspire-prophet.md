@@ -24,4 +24,4 @@ Yes, go and try to photograph him.
 Quick, grab a photo of him.
 
 # I got it!
-Nice, a photo of a vision. The prophet will surely appreciate it. Show the photo to him.
+Nice, a photo of a vision. The prophet will surely appreciate it. Show the photo to him. He will give you his chisel and the hammer.

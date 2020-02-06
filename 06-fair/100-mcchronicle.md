@@ -15,7 +15,7 @@ You can now visit him on the tracks.
 He doesn't want to let go. You need a tool.
 
 # What tool?
-The hammer and the chisel. [From the prophet.](090-prophet.md)
+The hammer and the chisel. [From the prophet.](095-inspire-prophet.md)
 
 # I have the chisel and the hammer
-Climb up to the roller coaster and use the hammer and the chisel on McChronicle. He is free!
+Climb up to the roller coaster and use the hammer and the chisel on McChronicle. He is free! McChronicle is also avid photographer.
