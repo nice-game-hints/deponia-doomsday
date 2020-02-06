@@ -21,7 +21,10 @@ Maybe some chewing gum. You find some chewing gum from the lecture hall. Under t
 Yeah, that would've been unrealistic. Who else would enjoy the gum?
 
 # Dean?
-Nicotine gum that is. Put the gum into the ashtray. It becomes nicotine chewing gum. Give it to Dean.
+Nicotine gum that is.
+
+# Nicotine gum?
+Put the gum into the ashtray. It becomes nicotine chewing gum. Give it to Dean.
 
 # Glue!
 Yes, take the glue and glue the glasses together.
