@@ -23,7 +23,7 @@ You need a hand?
 Maybe you need someone to snap the photo.
 
 # Someone?
-McChromicle, for example. [Free him.](100-mcchromicle.md)
+McChronicle, for example. [Free him.](100-mcchronicle.md)
 
 # He is at the entrance
 Ask him to take the picture.
