@@ -6,6 +6,9 @@ ITEMS
  - Note with "Romantic Ninja" from outside bulletin board
  - Fresh sandwich from students (show the note to them)
 
+ - Shards of glass from admin office (remove the sticker)
+ - Pipe from admin office
+
 
 Lecture hall:
 Can't leave without giving them something to do
@@ -41,3 +44,10 @@ Create a platypus trap on the scaffold. Trap being the platypus basket with a ba
 Platypus does not eat fresh sandwich. To make it old, stick it into the anomaly.
 
 Capture the platypus by putting the old sandwich in to the basket and the basket on to the scaffolding.
+
+Admin office:
+Take the bird warning sign away and you get shards of glass.
+
+There's the key to Junior's laboratyr (and the time machine)
+
+Dean does not believe in anomalies. Maybe show one to him?
