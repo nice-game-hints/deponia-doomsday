@@ -1,5 +1,5 @@
 ---
-title: The Blast Tower
+title: Intro - The Blast Tower
 keywords: blowtorch, blast tower, monster
 ---
 

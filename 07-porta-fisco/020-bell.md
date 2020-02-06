@@ -9,7 +9,7 @@ Dean won't accept your visit until the bell rings.
 Your lecture is so boring? Maybe you could make the time go faster.
 
 # How?
-You have the _small_ anomaly going on, right?
+You have the [_small_ anomaly going on](010-getout.md), right?
 
 # Yes
 Make it bigger.
