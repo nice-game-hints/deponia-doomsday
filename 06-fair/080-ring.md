@@ -18,4 +18,10 @@ You need more audience to man up!
 There's the bunch of junk knights. Maybe they are up for a job. Go talk to them.
 
 # They aren't
-They are waiting for the prophet to finish on his task, first. But the prophet is having a creative crisis.
+They are waiting for the prophet to finish on his task, first. [Help him to finish.](090-prophet.md)
+
+# Fourth commandment
+Great. Now go and offer the job to the knights. After they are with you enter the labyrinth.
+
+# Nice RPG
+You have to fight the wombat. Hint: grab the glass shard from the floor and throw it multiple times at the wombat to kill it.
