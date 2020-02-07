@@ -61,19 +61,7 @@ Lookout keeps eye on bins for wombats or something. We are not equipped for havi
 
 QUESTIONS:
 How do I make Rokko propose Rita? (McChronicle says: Ring and a tailcoat)
-How to get the portal map? (From the architect, of course)
 Where are the Portal Building Authorities? (In the future)
 How to find a ring? (First the tailcoat! There is a portal open at planning table. There is the fancy unicorn ring.)
 How to find a tailcoat? (With the map from architect and Vince)
-How to get the Hats magazine? (Give him the peanut butter sandwich)
 What is the latest hat fashion?
-
-At the fair (again!)
-ITEMS:
- Sheet from grave
-How to get the bowling ball? Fortune teller. Just ask him about hat trends. He gets a magazine. Get the drill to make holes to the ball, paint it)
-How to remove the crystal ball?
-How to get a drill? Use the crystal ball to teleport to Future drill zone.
-How to switch plases with the gravedigger? (Dig a grave and bring him prophet costume (sheet))
-How to get the spade? (Talk to the gravedigger first and say you should change professions)
-How to get the paint bucket? (Switch jobs with the gravedigger)
