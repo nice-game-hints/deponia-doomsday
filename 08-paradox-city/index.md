@@ -61,25 +61,11 @@ Lookout keeps eye on bins for wombats or something. We are not equipped for havi
 
 QUESTIONS:
 How do I make Rokko propose Rita? (McChronicle says: Ring and a tailcoat)
-How to get the siren sound longer? (THERE IS A BUG!)
-How to lower the bridge? (Distract the lookout)
-How to make fewlock soup? (Get a fewlock carcass from Elysium center)
-How to order toast and milk? (You need money)
-How to get money? (From the toilet, give him laxatives)
-How to get the peanuts? (You have to reason with them. Rita and Rokko)
-How to make the peanut butter sandwich? (Change the churn to cylinder head, put milk and peanuts there. Churn?)
 How to get the portal map? (From the architect, of course)
 Where are the Portal Building Authorities? (In the future)
-How to get the toilet free? (with laxative?)
-How to fix the butter churn? (Rokko runs a workshop)
-How to make peanut butter? (Milk and peanuts, fix the churn, cylinder head into the time machine, start it and the hood pops open)
 How to find a ring? (First the tailcoat! There is a portal open at planning table. There is the fancy unicorn ring.)
 How to find a tailcoat? (With the map from architect and Vince)
 How to get the Hats magazine? (Give him the peanut butter sandwich)
-How to get a stone for Ungh? (He doesn't accept the sculpture, throw it into the drill hole (future))
-How to get into a time machine? (Old Maverick will give you a key if he gets soup, It is the young maverick who will give t)
-How to distract the lookout? (Put a battery platypus into the bin, when alarm is sounding)
-How to make Old Maverick happy? (He wants soup but with a hair (goal's hairbrush) in it. You get a new soup from Young Maverick)
 What is the latest hat fashion?
 
 At the fair (again!)
