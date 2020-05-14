@@ -12,7 +12,7 @@ Do you know what this world needs more?
 Portals! More portals. Always try to find more hidden portals.
 
 # Hidden portals?
-Try on the 4D glasses. [You get them from the lab.](/09-waste-of-time/03-paradox-city/030-lab/010-first.md) The glasses will show you the potential portals in the place you are at the moment.
+Try on the 4D glasses. [You get them from the lab.](030-paradox-city/030-lab/010-first.md) The glasses will show you the potential portals in the place you are at the moment.
 
 # I found one
 Now, just activate the portal with your tachyon crossbow.
